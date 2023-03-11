@@ -1,4 +1,5 @@
-# 2022~20XX   
+# 💻개발자💻   
+___
 
 > ## 자기소개
 ### <center>개발 역량을 차근차근 키워나가고 있는 사람입니다.</center>
@@ -14,17 +15,15 @@ int main()
 }
 ```
 ---
-#### <center>🤷‍♂️프로필🤷‍♂️</center>
+#### <center>깃허브</center>
    
-<center><a href="https://github.com/Hyeok-06" target="_blank">
+<a href="https://github.com/Hyeok-06" target="_blank">
 <center><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=GitHub&logoColor={white}"/></a></center>
-<a href="https://devjunhyeok.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/주녁이의 개발일지-000000?style=for-the-badge&logo=Tistory&logoColor={white}"/></a></center>
 
 #### <center>📖사용 언어📖</center>
    
 <center><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor={white}"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor={white}"/></a></center>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo= C++&logoColor={white}"/></a></center>
 
 #### <center>🔧사용 도구🔧</center>
    
