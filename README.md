@@ -29,9 +29,8 @@ ___
 
 ![홍준혁의 깃허브 통계](https://github-readme-stats.vercel.app/api?username=Hyeok-06&show_icons=true&theme=onedark&locale=kr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok-06&layout=compact&theme=onedark)
+<a href="https://opgc.me/#/users/Hyeok-06" target="_blank"><img src="https://api.opgc.me/githubs/users/Hyeok-06/tag/?theme=basic" /></a>
 
 > ## 알고리즘 사이트
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jun44227)](https://solved.ac/jun44227/)
-
-<a href="https://opgc.me/#/users/Hyeok-06" target="_blank"><img src="https://api.opgc.me/githubs/users/Hyeok-06/tag/?theme=basic" /></a>
