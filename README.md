@@ -3,17 +3,6 @@ ___
 
 > ## 자기소개
 ### <center>개발 역량을 차근차근 키워나가고 있는 사람입니다.</center>
-```cpp
-#include <iostream>
-using namespace std;
-int main()
-{
-  string name = "홍준혁";
-  cout << "이름을 입력하시오: ";
-  cin >> name;
-  cout << "성장하는 개발자";
-}
-```
 ---
 #### <center>깃허브</center>
    
