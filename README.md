@@ -29,7 +29,7 @@ ___
 
 ![홍준혁의 깃허브 통계](https://github-readme-stats.vercel.app/api?username=Hyeok-06&show_icons=true&theme=onedark&locale=kr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok-06&layout=compact&theme=onedark)
-<a href="https://opgc.me/#/users/Hyeok-06" target="_blank"><img src="https://api.opgc.me/githubs/users/Hyeok-06/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/HY30K" target="_blank"><img src="https://api.opgc.me/githubs/users/Hyeok-06/tag/?theme=basic" /></a>
 
 > ## 알고리즘 사이트
 
